@@ -1,16 +1,33 @@
-## Hi there 👋
+🎓 I’m a student at **Ho Chi Minh City University of Technology (HCMUT)** – VNU-HCM  
+🌴 A chill guy from the Mekong Delta  
 
-<!--
-**trhao7105/trhao7105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Love exploring and experimenting with different programming languages  
+- ⚽ Big football fan – **Chelsea** supporter  
+- 🏸 Enjoy playing badminton in my free time  
+- 🎧 Music vibe depends on mood: from US-UK, ballad to rap  
+- 🤝 Love teamwork and collaboration  
+- 👨‍👩‍👦 Biggest inspiration: **my parents**
+
+---
+
+## 🎌 Interests
+
+- 📦 Collecting **One Piece figures**  
+- 🎬 Favorite anime: **One Piece**  
+
+---
+
+## 🌱 Currently
+
+- Learning and building real-world projects  
+- Improving backend & system design skills  
+
+---
+
+## 📫 Let's connect!
+
+I'm always open to meeting new people, collaborating, and learning together 🚀
